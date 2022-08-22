@@ -1,0 +1,41 @@
+﻿OSRS Open Patent Promise for Libraries and Software Components 
+
+OSRS Open and its affiliates ("OSRS") promise not to assert 
+any Patents against you for making, using, selling, offering for sale, 
+importing, or distributing Covered Code, as part of either an OSRS Open Library or 
+as part of any application designed to run using an OSRS Open Component. 
+
+If you file, maintain, or voluntarily participate in any claim in a lawsuit 
+alleging direct or contributory patent infringement by any Covered Code, or 
+inducement of patent infringement by any Covered Code, then your rights under 
+this promise will automatically terminate. 
+
+This promise is not an assurance that (i) any OSRS Open Patents are valid or 
+enforceable, or (ii) Covered Code does not infringe patents or other 
+intellectual property rights of any third party. No rights except those 
+expressly stated in this promise are granted, waived, or received by 
+OSRS, whether by implication, exhaustion, estoppel, or otherwise. 
+This is a personal promise directly from OSRS to you, and you agree as a 
+condition of benefiting from it that no OSRS rights are received from 
+suppliers, distributors, or otherwise from any other person in connection with 
+this promise. 
+
+Definitions: 
+
+"Covered Code" means those OSRS Open libraries and components as 
+made available by OSRS Open at https://github.com/OSRS/ and all sub-projects.
+
+"OSRS Patents" are those patent claims, both currently owned by OSRS and 
+acquired in the future, that are necessarily infringed by Covered Code. OSRS
+Patents do not include any patent claims that are infringed by any Enabling 
+Technology, that are infringed only as a consequence of modification of 
+Covered Code, or that are infringed only by the combination of Covered Code 
+with third party code. 
+
+"OSRS Open Component" means any implementation in software of any 
+functionality.
+
+"Enabling Technology" means underlying or enabling technology that may be 
+used, combined, or distributed in connection with OSRS Open Projects 
+or other OSRS Open Components, such as hardware, operating systems, and applications 
+that use OSRS Open technologies. 

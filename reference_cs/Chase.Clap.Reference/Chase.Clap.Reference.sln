@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chase.Clap.Reference", "Chase.Clap.Reference\Chase.Clap.Reference.csproj", "{7CFF7AF4-D423-4F5E-89C5-F342737CC623}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chase.Nexus.Reference", "Chase.Nexus.Reference\Chase.Nexus.Reference.csproj", "{EC72CAEC-2F54-47C1-8878-549607269E56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OsrsOpen.Chase.Reference", "OsrsOpen.Chase.Reference\OsrsOpen.Chase.Reference.csproj", "{4F23A893-E17B-4F3F-824E-436637F6A076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFF7AF4-D423-4F5E-89C5-F342737CC623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFF7AF4-D423-4F5E-89C5-F342737CC623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFF7AF4-D423-4F5E-89C5-F342737CC623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFF7AF4-D423-4F5E-89C5-F342737CC623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC72CAEC-2F54-47C1-8878-549607269E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC72CAEC-2F54-47C1-8878-549607269E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC72CAEC-2F54-47C1-8878-549607269E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC72CAEC-2F54-47C1-8878-549607269E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F23A893-E17B-4F3F-824E-436637F6A076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F23A893-E17B-4F3F-824E-436637F6A076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F23A893-E17B-4F3F-824E-436637F6A076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F23A893-E17B-4F3F-824E-436637F6A076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053B4599-AFC4-4E96-9287-91FADA52A236}
+	EndGlobalSection
+EndGlobal
